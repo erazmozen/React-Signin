@@ -4,7 +4,7 @@ import "./style.css";
 
 function App() {
   const adminUser = {
-    email: "admin@a",
+    email: "erazmo@zen.com",
     password: "admin",
   };
   // Ovo nam je imitacija databaze
